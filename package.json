@@ -1,0 +1,16 @@
+{
+  "name": "edge-playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "puppeteer-core": "^19.6.3"
+  },
+  "devDependencies": {
+    "@sparticuz/chromium": "^110.0.0"
+  }
+}
