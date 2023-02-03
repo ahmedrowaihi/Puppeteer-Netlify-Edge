@@ -1,5 +1,5 @@
 {
-  "name": "Puppeteer-Netlify-Edge",
+  "name": "puppeteer-netlify-edge",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
