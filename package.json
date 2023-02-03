@@ -1,5 +1,5 @@
 {
-  "name": "edge-playwright",
+  "name": "Puppeteer-Netlify-Edge",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
